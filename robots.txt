@@ -1,11 +1,4 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
-
-Sitemap: https://maroko66.co/sitemap.xml
-
-
-User-agent: *
 Allow: /
 
-Sitemap: https://sempurnajp89.com/sitemap.xml
+Sitemap: http://lgovegas33.pabloguevara.com/sitemap.xml
